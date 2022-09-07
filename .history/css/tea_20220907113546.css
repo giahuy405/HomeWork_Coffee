@@ -1,0 +1,10 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: separate;
+    padding-left: 10px;
+}
+table{
+    width: 900px;
+    height: 800px;
+    margin: 0 auto;
+}
